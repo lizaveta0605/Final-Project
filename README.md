@@ -9,7 +9,7 @@ Netflix — популярный стриминговый сервис, кото
 •	show_id: идентификационный номер видео
 •	type: тип 
 Тип: Movie/TV Show
-•	title: название 
+•	title: название
 •	director: имя режиссера
 •	country: страна-производитель фильма
 •	date_added: дата и время, когда видео было добавлено в Netflix
@@ -18,6 +18,6 @@ Netflix — популярный стриминговый сервис, кото
 •	duration: продолжительность видео
 •	listed_in: жанр видео
 
-#Презентация проекта - https://drive.google.com/file/d/1e1o2SQ1OfpWsGScSDHoavH58nvnnrgsy/view?usp=drive_link
+Презентация проекта - https://drive.google.com/file/d/1e1o2SQ1OfpWsGScSDHoavH58nvnnrgsy/view?usp=drive_link
 
-#Ссылка на дашборд - https://app.powerbi.com/groups/me/reports/5fb1b59d-d6f7-4e7f-a35e-cf9c95ddf0be/ReportSection7be685c2f20d18f5b232?experience=power-bi
+Ссылка на дашборд - https://app.powerbi.com/groups/me/reports/5fb1b59d-d6f7-4e7f-a35e-cf9c95ddf0be/ReportSection7be685c2f20d18f5b232?experience=power-bi

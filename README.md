@@ -7,15 +7,23 @@ Netflix — популярный стриминговый сервис, кото
 
 В датасете находятся такие поля, как:
 •	show_id: идентификационный номер видео
+
 •	type: тип 
 Тип: Movie/TV Show
 •	title: название
+
 •	director: имя режиссера
+
 •	country: страна-производитель фильма
+
 •	date_added: дата и время, когда видео было добавлено в Netflix
+
 •	release_year: год выпуска
+
 •	rating: возрастное ограничение
+
 •	duration: продолжительность видео
+
 •	listed_in: жанр видео
 
 Презентация проекта - https://drive.google.com/file/d/1e1o2SQ1OfpWsGScSDHoavH58nvnnrgsy/view?usp=drive_link
